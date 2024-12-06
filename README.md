@@ -54,8 +54,8 @@ project-root/
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://your-repository-url.git
-cd sedar-captcha-solver
+git clone [https://your-repository-url.git](https://github.com/VaibhavSharma1620/SEDAR_CAPTCHA_Solver.git)
+cd SEDAR_CAPTCHA_Solver
 ```
 
 2. Install required dependencies
