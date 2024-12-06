@@ -87,10 +87,10 @@ This project is shared transparently with the understanding that:
 Contributions, discussions, and constructive feedback are welcome. Please open an issue or submit a pull request.
 
 ## License
-[Choose an appropriate open-source license, e.g., MIT License]
+Distributed under the MIT License. See LICENSE for more information.
 
 ## Disclaimer
 This project is provided for educational purposes only. Always respect website terms of service and legal guidelines.
 
-## Screenshots
-[You can add a screenshot of the original SEDAR website CAPTCHA here]
+## Example Screenshot
+![SEDAR CAPTCHA Screenshot](/DevTry.png)
